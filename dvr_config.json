@@ -1,0 +1,11 @@
+{
+  "dvrs": [
+    {
+      "name": "Hikvision",
+      "ip": "172.16.0.95",
+      "username": "admin",
+      "password": "SemiCore@2025",
+      "rtsp_url": "rtsp://admin:SemiCore@2025@172.16.0.95:554/Streaming/Channels/102"
+    }
+  ]
+}
